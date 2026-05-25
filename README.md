@@ -29,11 +29,14 @@ Bygget med Anthropic Claude API + XGBoost model.
 | Komponent | Bibliotek |
 |---|---|
 | Data | Pandas |
-| Embeddings | StandardScaler |
-| Modeller | Scikit-learn, XGBoost, TensorFlow/Keras |
+| Numeriske beregninger | NumPy |
+| Dataskalering | Scikit-learn (StandardScaler) |
+| Linear Regression | Scikit-learn (LinearRegression) |
+| DNN | TensorFlow / Keras |
+| XGBoost | XGBoost |
+| Visualisering | Matplotlib |
 | AI Chat | Anthropic Claude Haiku |
 | Miljø | Google Colab |
-
 ## Kode
 Notebook: `EksamensOpgave_i_ML.ipynb`
 

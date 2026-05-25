@@ -70,11 +70,13 @@ Eksempel:
 
 
 
-
+### Train/test split:
 <img width="711" height="315" alt="image" src="https://github.com/user-attachments/assets/3fe95c4b-f188-4207-aa52-23521ff6514a" />
 
+###  Linear Regression og XGBoost
 <img width="936" height="734" alt="image" src="https://github.com/user-attachments/assets/85fc0cd4-2e64-4e08-b9c1-e28028b24f4b" />
 
+### DNN træningen.
 <img width="785" height="845" alt="image" src="https://github.com/user-attachments/assets/d43192e8-b3fa-4711-815d-f3690c9b3d97" />
 
 

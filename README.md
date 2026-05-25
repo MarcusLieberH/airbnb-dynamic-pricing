@@ -23,6 +23,22 @@ Vi træner og sammenligner 3 modeller:
 2. **Deep Neural Network (DNN)** — neural netværk med 3 skjulte lag
 3. **XGBoost** — tree-based model
 
+Bygget med Anthropic Claude API + XGBoost model.
+
+## Teknologi
+| Komponent | Bibliotek |
+|---|---|
+| Data | Pandas |
+| Embeddings | StandardScaler |
+| Modeller | Scikit-learn, XGBoost, TensorFlow/Keras |
+| AI Chat | Anthropic Claude Haiku |
+| Miljø | Google Colab |
+
+## Kode
+Notebook: `EksamensOpgave_i_ML.ipynb`
+
+GitHub: https://github.com/MarcusLieberH/airbnb-dynamic-pricing
+
 ## Resultater
 
 ### Modelsammenligning

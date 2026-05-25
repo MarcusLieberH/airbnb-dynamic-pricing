@@ -79,5 +79,14 @@ Eksempel:
 ### DNN træningen.
 <img width="785" height="845" alt="image" src="https://github.com/user-attachments/assets/d43192e8-b3fa-4711-815d-f3690c9b3d97" />
 
+### Feature importance grafen
+<img width="1116" height="656" alt="image" src="https://github.com/user-attachments/assets/e4f881ba-cc43-4f69-942b-5f1ae9e5bc07" />
+
+
+### RMSE og R² graferne 
+<img width="1061" height="706" alt="image" src="https://github.com/user-attachments/assets/667997e4-b31d-4bb0-8815-25b126fbc078" />
+
+### Claude til at fortolke udlejerens spørgsmål
+<img width="1140" height="675" alt="image" src="https://github.com/user-attachments/assets/a4801f58-c664-4920-94a0-7b5733d753f3" />
 
 

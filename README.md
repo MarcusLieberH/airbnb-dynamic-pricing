@@ -71,5 +71,6 @@ Eksempel:
 
 
 
-<img width="850" height="395" alt="image" src="https://github.com/user-attachments/assets/d93c9de2-b910-473a-9e02-98597dbc1b20" />
+<img width="711" height="315" alt="image" src="https://github.com/user-attachments/assets/3fe95c4b-f188-4207-aa52-23521ff6514a" />
+
 

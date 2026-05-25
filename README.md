@@ -64,3 +64,12 @@ Projektet inkluderer en chat-løkke hvor udlejere kan stille spørgsmål
 på naturligt dansk og få en prisforudsigelse tilbage.
 
 Eksempel:
+
+
+
+
+
+
+
+<img width="850" height="395" alt="image" src="https://github.com/user-attachments/assets/d93c9de2-b910-473a-9e02-98597dbc1b20" />
+

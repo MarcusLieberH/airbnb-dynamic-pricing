@@ -91,31 +91,5 @@ Eksempel:
 
 
 
-
-## Web App (Flask)
-
-Projektet inkluderer også en web app bygget med Flask, der kører lokalt.
-
-### Sådan kører du den
-
-1. Installer dependencies:
-```bash
-pip install flask anthropic xgboost scikit-learn pandas numpy
-```
-
-2. Sæt din API nøgle:
-```bash
-export ANTHROPIC_API_KEY="din-nøgle"
-```
-
-3. Start serveren:
-```bash
-python app.py
-```
-
-4. Åbn **http://localhost:5000** i din browser
-
-### Funktioner
-- Skriv dit spørgsmål på naturligt dansk
-- Claude AI fortolker spørgsmålet og udtrækker features
-- XGBoost modellen forudsiger prisen
+## Web App
+Projektet inkluderer også en Flask web app (`app.py`) der kører modellen lokalt via en browser.

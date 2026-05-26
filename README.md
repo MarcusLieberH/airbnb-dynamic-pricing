@@ -68,6 +68,9 @@ De vigtigste faktorer ifølge XGBoost:
 Projektet inkluderer en chat-løkke hvor udlejere kan stille spørgsmål
 på naturligt dansk og få en prisforudsigelse tilbage.
 
+### Screenshots med forklaringer:
+Jeg har prøvet så vidt muligt at forklare dem og nogle steder er det meget utydeligt. Prøvede at få de mest relevante dele med
+
 ### Train/test split:
 <img width="711" height="315" alt="image" src="https://github.com/user-attachments/assets/3fe95c4b-f188-4207-aa52-23521ff6514a" />
 
@@ -97,7 +100,3 @@ Projektet inkluderer også en Flask web app (`app.py`) der kører modellen lokal
 
 <img width="943" height="639" alt="image" src="https://github.com/user-attachments/assets/d3de6d23-573e-4ee1-a693-9f91a7b5732a" />
 
-## Web App
-Projektet inkluderer også en Flask web app (`app.py`) der kører modellen lokalt via en browser.
-
-<img width="943" height="639" alt="image" src="https://github.com/user-attachments/assets/d3de6d23-573e-4ee1-a693-9f91a7b5732a" />

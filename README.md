@@ -79,9 +79,8 @@ Eksempel:
 ### DNN træningen.
 <img width="785" height="845" alt="image" src="https://github.com/user-attachments/assets/d43192e8-b3fa-4711-815d-f3690c9b3d97" />
 
-### Output fra Optuna celle
+### Output fra Optuna celle (billedet er utydeligt, Det bedste er at klikke på billedet for at se det hele. Outputtet fra Optuna fylder meget)
 <img width="1622" height="710" alt="image" src="https://github.com/user-attachments/assets/8e77e949-3df9-470d-bbc4-e9e32817edc3" />
-<img width="914" height="395" alt="image" src="https://github.com/user-attachments/assets/fd07910e-79d5-4a41-bbed-041f5ff206d7" />
 
 
 ### Feature importance grafen

@@ -81,6 +81,7 @@ Eksempel:
 
 ### Output fra Optuna celle
 <img width="1622" height="710" alt="image" src="https://github.com/user-attachments/assets/8e77e949-3df9-470d-bbc4-e9e32817edc3" />
+<img width="914" height="395" alt="image" src="https://github.com/user-attachments/assets/fd07910e-79d5-4a41-bbed-041f5ff206d7" />
 
 
 ### Feature importance grafen

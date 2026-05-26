@@ -93,3 +93,5 @@ Eksempel:
 
 ## Web App
 Projektet inkluderer også en Flask web app (`app.py`) der kører modellen lokalt via en browser.
+
+<img width="943" height="639" alt="image" src="https://github.com/user-attachments/assets/d3de6d23-573e-4ee1-a693-9f91a7b5732a" />

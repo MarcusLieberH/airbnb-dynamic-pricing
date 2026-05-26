@@ -82,9 +82,12 @@ Eksempel:
 ### Feature importance grafen
 <img width="1116" height="656" alt="image" src="https://github.com/user-attachments/assets/e4f881ba-cc43-4f69-942b-5f1ae9e5bc07" />
 
+### Sammenligning af modellerne
+<img width="530" height="474" alt="image" src="https://github.com/user-attachments/assets/b6dd0842-99ca-43b3-9b9b-3092c8f46abb" />
+
 
 ### RMSE og R² graferne 
-<img width="1061" height="706" alt="image" src="https://github.com/user-attachments/assets/667997e4-b31d-4bb0-8815-25b126fbc078" />
+<img width="1179" height="785" alt="image" src="https://github.com/user-attachments/assets/683ccf37-4882-486b-aeda-2027b553b4b3" />
 
 ### Claude til at fortolke udlejerens spørgsmål
 <img width="1140" height="675" alt="image" src="https://github.com/user-attachments/assets/a4801f58-c664-4920-94a0-7b5733d753f3" />
